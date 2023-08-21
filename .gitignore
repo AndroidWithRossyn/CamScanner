@@ -1,0 +1,7 @@
+# Project exclude paths
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/scanlibrary/build/
+/scanlibrary/build/intermediates/javac/debug/classes/
+/sticker/build/
+/sticker/build/intermediates/javac/debug/classes/

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580115628153",
+    "project_id": "pdfreader-dd3cf",
+    "storage_bucket": "pdfreader-dd3cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580115628153:android:ff050e118f60fb81c054a8",
+        "android_client_info": {
+          "package_name": "com.itseraread.downloadscan.pdfreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580115628153-pcimsnda9jne8211km5dvqv88snbus5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7Fc73wNqlk0aIw8e6C7AcMyroESVdHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580115628153-pcimsnda9jne8211km5dvqv88snbus5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
